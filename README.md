@@ -18,3 +18,6 @@ Análisis de las funciones y resolución del acertijo:
 * **`f_gamma`:** Separa cada dígito del número y los suma (es decir, `1 + 2 + 7 = 10`).
 
 **Resultado:** El enigma es **`137`**, ya que surge de sumar el resultado de beta más el de gamma (`127 + 10`).
+
+## 4. 
+* **Apartado g:** Al añadir el **`.gitignore`** evite enviar archivos inecesarios y no recomendables como el **`.exe`** creado por el compilador
